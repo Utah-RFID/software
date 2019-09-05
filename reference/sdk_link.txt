@@ -1,0 +1,1 @@
+http://www.ti.com/tool/download/SIMPLELINK-MSP432E4-SDK
